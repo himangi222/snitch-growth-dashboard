@@ -1,0 +1,41 @@
+product_id,title,category,price,available
+1001,Oversized Black Shirt,Shirts,999,True
+1002,Abstract Block Blue Shirt,Shirts,719,True
+1003,Navy Solid Twill Shirt,Shirts,1219,True
+1004,Stripehaven Beige Stripes Shirt,Shirts,1129,True
+1005,Stripehaven Light Blue Stripe Shirt,Shirts,979,True
+1006,Cut Leaf Black Shirt,Shirts,999,False
+1007,Double Cuff Maroon Shirt,Shirts,999,True
+1008,Superflex Lavender Shirt,Shirts,1409,True
+1009,Overflap Ash Grey Shirt,Shirts,999,False
+1010,Abstract Slim Fit Floral Shirt,Shirts,1499,True
+1011,Refined Blue Relaxed Fit Jeans,Jeans,1299,True
+1012,Retro Ripple Jet Black Straight Jeans,Jeans,1689,True
+1013,Eloise Blue Plain Loose Fit Jeans,Jeans,1399,False
+1014,Original Black Bootcut Denim,Jeans,1689,True
+1015,Light Blue Loose Casual Jeans,Jeans,1699,True
+1016,Baggy Blue Denim,Jeans,1899,False
+1017,Urban Grey Relaxed Jeans,Jeans,1599,True
+1018,Classic Washed Black Denim,Jeans,1799,True
+1019,Slim Fit Cargo Olive,Cargo,1999,True
+1020,Relaxed Fit Cargo Beige,Cargo,1899,True
+1021,Utility Pocket Cargo Black,Cargo,2199,False
+1022,Streetwear Baggy Cargo,Cargo,2299,True
+1023,Tactical Grey Cargo,Cargo,2099,True
+1024,Slim Tapered Cargo,Cargo,1799,True
+1025,Minimal Beige Trousers,Trousers,1599,True
+1026,Slim Fit Trousers Black,Trousers,1499,True
+1027,Relaxed Pleated Trousers,Trousers,1699,False
+1028,Classic Office Pants,Trousers,1399,True
+1029,White Oversized Tee,Tshirts,799,True
+1030,Black Graphic Tee,Tshirts,899,True
+1031,Minimal Logo Tee,Tshirts,699,True
+1032,Vintage Wash Tee,Tshirts,999,False
+1033,Streetwear Printed Tee,Tshirts,1099,True
+1034,Textured Polo White,Tshirts,1129,True
+1035,Relaxed Fit Hoodie Black,Hoodies,2299,True
+1036,Minimal Grey Hoodie,Hoodies,1999,True
+1037,Oversized Street Hoodie,Hoodies,2499,False
+1038,Zip-Up Essential Hoodie,Hoodies,2199,True
+1039,Chelsea Boots Black,Footwear,2499,True
+1040,Men Beige Loafers,Footwear,2199,True
